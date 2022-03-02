@@ -79,7 +79,7 @@ export default {
   },
   'twitch-channel': {
     regex: /https?:\/\/www\.twitch\.tv\/([^\/\?\&]*)\/?$/,
-    embedUrl: 'https://player.twitch.tv/?channel=<%= remote_id %>&parent=maldita.es?autoplay=false',
+    embedUrl: 'https://player.twitch.tv/?channel=<%= remote_id %>&parent=maldita.es&autoplay=false',
     html: '<iframe frameborder="0" allowfullscreen="true" scrolling="no" height="366" style="width:100%;"></iframe>',
     height: 366,
     width: 600,
