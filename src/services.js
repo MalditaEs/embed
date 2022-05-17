@@ -86,7 +86,7 @@ export default {
   },
   'twitch-video': {
     regex: /https?:\/\/www\.twitch\.tv\/(?:[^\/\?\&]*\/v|videos)\/([0-9]*)/,
-    embedUrl: 'https://player.twitch.tv/?video=v<%= remote_id %>&parent=maldita.es?autoplay=false',
+    embedUrl: 'https://player.twitch.tv/?video=v<%= remote_id %>&parent=maldita.es&autoplay=false',
     html: '<iframe frameborder="0" allowfullscreen="true" scrolling="no" height="366" style="width:100%;"></iframe>',
     height: 366,
     width: 600,
