@@ -12,7 +12,6 @@ Tool uses Editor.js pasted patterns handling and inserts iframe with embedded co
 - [Facebook](https://www.facebook.com) - `facebook` service
 - [Instagram](https://www.instagram.com/codex_team/) - `instagram` service
 - [YouTube](https://youtube.com) - `youtube` service
-- [Twitter](https://twitter.com/codex_team) - `twitter` service. (https://twitframe.com used for render)
 - [Twitch](https://twitch.tv) - `twitch-video` service for videos and `twitch-channel` for channels
 - [Miro](https://miro.com) - `miro` service
 - [Vimeo](https://vimeo.com) — `vimeo` service
